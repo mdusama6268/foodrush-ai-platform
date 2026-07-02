@@ -3,6 +3,12 @@
 ### AI-powered Food Delivery Operations Assistant  
 Built by Huzefa — Food Delivery Operations Experience + AI Automation Skills
 
+## 🌐 Live Project Links
+
+- Live Demo: https://foodrush-ai-platform.onrender.com
+- API Docs: https://foodrush-ai-platform.onrender.com/docs
+- Health Check: https://foodrush-ai-platform.onrender.com/health
+
 ## Project Overview
 
 FoodRush AI Platform is an AI-powered operations assistant built for food delivery businesses.
